@@ -34,7 +34,7 @@ Swami Store Want to Create Annual Sales Report for 2022,So that Swami  Store Can
 •	Step 4: Using the Data to Create pivote  Table.
 
 ## dashboard
-![Uploading Screenshot2.PNG…]()
+<img width="673" alt="Screenshot2" src="https://github.com/user-attachments/assets/d57ee02b-8536-45ac-ac22-94b94f50d89a" />
 
 ## Project Insight 
 •	Women are more likely to buy Compaired to Men (~65%)
