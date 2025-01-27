@@ -3,7 +3,8 @@
 ## Project Objective:
 Swami Store Want to Create Annual Sales Report for 2022,So that Swami  Store Can understand Theire Customers And Grow More sales in 2023.
 ## Database Used:
-https://github.com/pradnya-madane/Data-Analysis-Dashboard-2?tab=readme-ov-file#data-analysis-dashboard-2
+-<a href="https://github.com/pradnya-madane/Data-Analysis-Dashboard-2?tab=readme-ov-file#data-analysis-dashboard-2">Dataset</a>
+
 
 ## Question 
 •	Compaire The Sales and Order Using Single Chart?
@@ -20,7 +21,7 @@ https://github.com/pradnya-madane/Data-Analysis-Dashboard-2?tab=readme-ov-file#d
 •	Step 3:Apply Formulae
 •	Step 4: Using the Data to Create pivote  Table.
 ## dashboard
-
+<img ="https://github.com/pradnya-madane/Data-Analysis-Dashboard-2/blob/main/Screenshot2.PNG">Screenshot</img>
 ## Project Insight 
 •	Women are more likely to buy Compaired to Men (~65%)
 •	Maharashtra,Karnataka and uttar Pradesh are Top 3 States(~35%)
