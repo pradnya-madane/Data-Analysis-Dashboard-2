@@ -8,20 +8,33 @@ Swami Store Want to Create Annual Sales Report for 2022,So that Swami  Store Can
 
 ## Question 
 •	Compaire The Sales and Order Using Single Chart?
+
 •	Which Month got the Highest Sales Orders?
+
 •	Who Purchased more-Men or Women in 2022 ?
+
 •	What are the Different Order Statud in 2022 ?
+
 •	List Top 10 States Contributing to the Sales?
+
 •	Relation Between Age  and Gender  Based on Number?
+
 •	Which Channel is Contributing to Max Sales ?
+
 •	Highest Saling Catogory ,etc ?
+
  ## Process
+ 
 •	Step 1: Data Cleaning
+
 •	Step 2: Data Processing 
+
 •	Step 3:Apply Formulae
+
 •	Step 4: Using the Data to Create pivote  Table.
+
 ## dashboard
-<img ="https://github.com/pradnya-madane/Data-Analysis-Dashboard-2/blob/main/Screenshot2.PNG">Screenshot</img>
+<img width="619" alt ="https://github.com/pradnya-madane/Data-Analysis-Dashboard-2/blob/main/Screenshot2.PNG">Screenshot</img>
 ## Project Insight 
 •	Women are more likely to buy Compaired to Men (~65%)
 •	Maharashtra,Karnataka and uttar Pradesh are Top 3 States(~35%)
