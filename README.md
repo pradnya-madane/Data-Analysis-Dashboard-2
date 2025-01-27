@@ -3,6 +3,7 @@
 ## Project Objective:
 Swami Store Want to Create Annual Sales Report for 2022,So that Swami  Store Can understand Theire Customers And Grow More sales in 2023.
 ## Database Used:
+
 -<a href="https://github.com/pradnya-madane/Data-Analysis-Dashboard-2?tab=readme-ov-file#data-analysis-dashboard-2">Dataset</a>
 
 
@@ -38,11 +39,15 @@ Swami Store Want to Create Annual Sales Report for 2022,So that Swami  Store Can
 
 ## Project Insight 
 •	Women are more likely to buy Compaired to Men (~65%)
+
 •	Maharashtra,Karnataka and uttar Pradesh are Top 3 States(~35%)
+
 •	Adult age Group(30-49 yrs0in Max Contrbuting(~50%)
+
 •	Amazon,Flipcart,and Myntra Channnel are max Cnontributing(~80%)
-##Project Conclusion
-Target Women Customers of Age Group (30-49 yrs) Living in Maharashtra,Karnataka,uttar Pradesh by Showing Ads/ Amazon,Flipcart,Myntra
+
+## Project Conclusion
+Target Women Customers of Age Group (30-49 yrs) Living in Maharashtra,Karnataka,uttar Pradesh by Showing Ads/ Amazon,Flipcart,Myntra.
 
 
 
