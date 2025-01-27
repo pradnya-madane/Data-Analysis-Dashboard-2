@@ -1,4 +1,5 @@
-## Swami Store Annual Report 2022 (Interactive Dashboard creation using MS Exel)
+# Swami Store Annual Report 2022 (Interactive Dashboard creation using MS Exel)
+
 ## Project Objective:
 Swami Store Want to Create Annual Sales Report for 2022,So that Swami  Store Can understand Theire Customers And Grow More sales in 2023.
 ## Database Used:
@@ -19,7 +20,7 @@ https://github.com/pradnya-madane/Data-Analysis-Dashboard-2?tab=readme-ov-file#d
 •	Step 3:Apply Formulae
 •	Step 4: Using the Data to Create pivote  Table.
 ## dashboard
-Screenshot2.PNG
+
 ## Project Insight 
 •	Women are more likely to buy Compaired to Men (~65%)
 •	Maharashtra,Karnataka and uttar Pradesh are Top 3 States(~35%)
